@@ -1,4 +1,5 @@
-git clone https://github.com/hassan3828/ENCODEDE
+git clone https://github.com/hassan3828/ENCODE
+
 
 cd ENCODE
 
